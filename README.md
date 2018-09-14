@@ -1,4 +1,5 @@
 # hello-world
 My first repository
 Just learning stuff
-sort of
+try to erase than add text in same line
+and see what i've got
